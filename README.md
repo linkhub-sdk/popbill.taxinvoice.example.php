@@ -1,9 +1,13 @@
 popbill.taxinvoice.example.php
 ==============================
 
-####팝빌 세금계산서 SDK Example for PHP 5
+팝빌 세금계산서 SDK Example for PHP 5
+####Requirements
++ php 5.3+
++ curl
++ openssl 1.0.1g+ (don't forget about heartbleed.)
 
-#####예제 목록
+####예제 목록
 + common.php  - 공통부분
 + JoinMember.php  - 연동회원 가입
 + GetBalance.php  - 연동회원 잔여포인트 확인
