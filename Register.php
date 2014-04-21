@@ -10,6 +10,8 @@ use Popbill\TaxinvoiceAddContact;
 
 echo '세금계산서 임시저장 테스트'.chr(10).'처리결과 : ' ;
 
+
+//자세한 구성방법은 Reference의 JSON 포맷을 참고.
 $Taxinvoice = new Taxinvoice();
 
 $Taxinvoice->writeDate = '20140410';
