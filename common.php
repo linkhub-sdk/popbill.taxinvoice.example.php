@@ -1,7 +1,6 @@
 <?php
 
 require_once 'PopbillTaxinvoice/PopbillTaxinvoice.php';
-use Popbill\TaxinvoiceService;
 
 //파트너 아이디
 $PartnerID = 'TESTER';

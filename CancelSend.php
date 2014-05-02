@@ -1,12 +1,6 @@
 <?php
 
 include 'common.php';
-use Popbill\PopbillException;
-use Popbill\TaxinvoiceService;
-use Popbill\ENumMgtKeyType;
-use Popbill\Taxinvoice;
-use Popbill\TaxinvoiceDetail;
-use Popbill\TaxinvoiceAddContact;
 
 echo '발행예정 취소 테스트'.chr(10).'처리결과 : ' ;
 

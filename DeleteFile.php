@@ -1,12 +1,6 @@
 <?php
 
 include 'common.php';
-use Popbill\PopbillException;
-use Popbill\TaxinvoiceService;
-use Popbill\ENumMgtKeyType;
-use Popbill\Taxinvoice;
-use Popbill\TaxinvoiceDetail;
-use Popbill\TaxinvoiceAddContact;
 
 echo '파일첨부 삭제 테스트'.chr(10).'처리결과 : ' ;
 

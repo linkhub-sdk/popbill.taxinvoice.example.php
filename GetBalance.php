@@ -1,12 +1,7 @@
 <?php
 
 include 'common.php';
-use Popbill\PopbillException;
-use Popbill\TaxinvoiceService;
-use Popbill\ENumMgtKeyType;
-use Popbill\Taxinvoice;
-use Popbill\TaxinvoiceDetail;
-use Popbill\TaxinvoiceAddContact;
+
 
 echo '연동회원 잔여포인트 확인 테스트'.chr(10).'처리결과 : ' ;
 

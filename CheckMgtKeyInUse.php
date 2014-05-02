@@ -1,12 +1,6 @@
 <?php
 
 include 'common.php';
-use Popbill\PopbillException;
-use Popbill\TaxinvoiceService;
-use Popbill\ENumMgtKeyType;
-use Popbill\Taxinvoice;
-use Popbill\TaxinvoiceDetail;
-use Popbill\TaxinvoiceAddContact;
 
 echo '관리번호 사용여부 확인 테스트'.chr(10).'처리결과 : ' ;
 

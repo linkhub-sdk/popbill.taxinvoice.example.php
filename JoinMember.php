@@ -1,13 +1,7 @@
 <?php
 
 include 'common.php';
-use Popbill\PopbillException;
-use Popbill\JoinForm;
-use Popbill\TaxinvoiceService;
-use Popbill\ENumMgtKeyType;
-use Popbill\Taxinvoice;
-use Popbill\TaxinvoiceDetail;
-use Popbill\TaxinvoiceAddContact;
+
 
 echo '팝빌 연동회원 가입 테스트'.chr(10).'처리결과 : ' ;
 

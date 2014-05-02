@@ -1,12 +1,7 @@
 <?php
 
 include 'common.php';
-use Popbill\PopbillException;
-use Popbill\TaxinvoiceService;
-use Popbill\ENumMgtKeyType;
-use Popbill\Taxinvoice;
-use Popbill\TaxinvoiceDetail;
-use Popbill\TaxinvoiceAddContact;
+
 
 echo '세금계산서 공급받는자용 URL(메일링크와 동일) 확인 테스트'.chr(10).'처리결과 : ' ;
 
