@@ -40,6 +40,7 @@ popbill.taxinvoice.example.php
 + DeleteFile.php  - 첨부파일 1건 삭제
 + GetPopUpURL.php - 세금계산서 뷰팝업 URL 확인
 + GetPrintURL.php - 세금계산서 출력 팝업 URL 확인
++ GetEPrintURL.php - 세금계산서 공급받는자용 출력 팝업 URL 확인
 + GetMassPrintURL.php - 세금계산서 다량 인쇄 팝업 URL 확인
 + GetMailURL.php  - 공급받는자용 팝업(메일링크와 동일) URL 확인
 + GetCertificateExpireDate.php  - 공인인증서 등록여부 확인 및 만료일자 확인
